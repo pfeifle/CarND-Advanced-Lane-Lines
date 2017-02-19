@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./output_images/calibration_result.jpg "Calibration via chessboard"
 [image2]: ./output_images/calibration_result_highway.jpg  "Road Transformed"
-[image3]: ./output_images/ColorTransformation_Gradient.jpg  "Color Transformation and Gradient Processing"
+[image3]: ./output_images/ColorTransformation_Gradient.jpg  "Color Transformation and Gradient Processing "
 [image4]: ./output_images/warp1.jpg "Definition of Warp Points"
 [image5]: ./output_images/warp2.jpg "warp points for perspective transformation"
 [image6]: ./output_images/warp3.jpg "Applying perspective transformation"
