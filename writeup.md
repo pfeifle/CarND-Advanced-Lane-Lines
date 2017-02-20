@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/warp3.JPG "Applying perspective transformation"
 [image7]: ./output_images/warp4.jJPG "Applying perspective transformation and binary thresholding"
 [image8]: ./output_images/Polynomial.JPG "2nd order Polynomial"
-[image9]: ./output_images/test.JPG "test image for lane detection"
+[image9]: ./output_images/test.JPG "test image for lane detection "
 [image10]: ./output_images/final.JPG "final image of the project"
 [video1]: ./project_video.mp4 "Video Input"
 [video2]: ./project_result.mp4 "Video Output"
